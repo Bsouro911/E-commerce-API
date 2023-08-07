@@ -1,0 +1,90 @@
+{
+    "title": "GUCCI T-SHIRT",
+    "description": "test",
+    "img": "test",
+    "categories": ["T-Shirt", "Men"],
+    "size": "XL",
+    "color": "Printed",
+    "price": 50000
+}
+
+{
+    "title": "AIR JORDAN 1",
+    "description": "test",
+    "img": "test",
+    "categories": ["Footware", "Men"],
+    "size": "UK 8",
+    "color": "Prurple",
+    "price": 60000
+}
+
+{
+    "title": "PUMA MEN",
+    "description": "test",
+    "img": "test",
+    "categories": ["Footware", "Men"],
+    "size": "UK 7",
+    "color": "White",
+    "price": 6000
+}
+
+{
+    "userId" : "",
+    "products : [
+	{
+	    "productId" : "abc123",
+	    "quantity" : 2,
+	},
+	{
+	    "productId" : "bcd321",
+	    "quantity" : 7,
+	}
+    ],
+    "amount" : 5000,
+    "address" : "India-Mumbai"
+}
+
+{
+    "userId" : "",
+    "products : [
+	{
+	    "productId" : "abc12366",
+	    "quantity" : 6,
+	},
+	{
+	    "productId" : "bcd3sass",
+	    "quantity" : 3,
+	}
+    ],
+    "amount" : 10000,
+    "address" : "India-Kolkata"
+}
+
+
+
+
+{
+    "username" : "AdminUser",
+    "email" : "admin456@gmail.com",
+    "password" : "admin321"
+}
+
+{
+    "username": "testUser1",
+    "email": "test1@gmail.com",
+    "password": "test3211"
+}
+
+{
+    "username": "testUser2",
+    "email": "test2@gmail.com",
+    "password": "test3212"
+}
+
+
+
+user token ->
+
+
+admin token -> 
+
